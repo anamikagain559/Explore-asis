@@ -45,4 +45,29 @@ https://travel-website-c9b74.web.app/
 ## Category
 
  - B9 A10 Type-01 Requirements
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/anamikagain559/Explore-asis.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
